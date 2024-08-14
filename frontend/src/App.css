@@ -7,6 +7,7 @@ body {
 .App {
   background-color: #ff9bd2;
   height: 100%;
+  padding: 0 20px 20px;
 }
 
 .navbar {
@@ -50,5 +51,9 @@ body {
   flex-direction: row;
 }
 
-
+.index{
+  background: whitesmoke;
+  border: 2px solid black;
+  box-shadow: -10px 10px black;
+}
 
